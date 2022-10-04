@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Programming Building Blocks"
+		},
+		{
+			"path": "../../../Programming Building Blocks/cse110"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "wwd130"
+	}
+}
