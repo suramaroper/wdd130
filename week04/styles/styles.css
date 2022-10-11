@@ -9,11 +9,11 @@ font-family: cormorant + Garamond
   --paragraph-font: "Roboto"; 
 
   body {
-    div {
-      background-color: pink;
+    
+      background-color: #df7bc1 ;
     
       header, h, p {
-        color: text #e9ecf0; 
+        color: #e9ecf0 ; 
         text-align: center;
      }
      
