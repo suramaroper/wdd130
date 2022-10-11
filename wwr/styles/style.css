@@ -1,0 +1,47 @@
+
+body {
+    div id="content"
+    max-width: 1600px ;
+    margin: 0 auto;
+    background-color: #04417E;
+    color: #0D80BF;
+    }
+
+     nav a {
+        text-align: center;
+        width: 80px ;
+        #hero-img}
+        : 100%;
+
+ }
+
+  #background {
+    height: 725px;
+ }
+
+  header {
+    background-color: #402510;
+
+ }
+ nav a:hover {
+    background-color: #D8AF8D;
+    color: #0D80BF
+ }
+
+ .book,.join {
+    background-color: #D8AF8D;
+    color: #0D80BF ;
+
+  .book:hover, .join:hover {
+        #background;
+ }
+
+.msg {
+    background-color: #D8AF8D ;
+    color: black ;
+
+}
+ footer a:hoover {
+background-color:#D8AF8D;
+color: white
+ }
